@@ -10,17 +10,15 @@ Features available:
 
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/51de3e54-0ce9-4ff7-bbe5-b31c8e83a68d" />
 
-https://github.com/EmanSarhan/BioDataAnalyzVisProj/raw/refs/heads/main/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov
+[https://github.com/EmanSarhan/BioDataAnalyzVisProj/raw/refs/heads/main/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov
 
 
 
 https://github.com/EmanSarhan/BioDataAnalyzVisProj/blob/7b5784d5d246e59501b6736a66ff228c81e7604c/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov
+](https://github.com/user-attachments/assets/76eb9de4-6550-4c1f-949f-ae56fb5ef4e2
+)
 
-
-[![Watch the video](https://github.com/EmanSarhan/BioDataAnalyzVisProj/blob/7b5784d5d246e59501b6736a66ff228c81e7604c/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov)](https://github.com/EmanSarhan/BioDataAnalyzVisProj/blob/7b5784d5d246e59501b6736a66ff228c81e7604c/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov)
-
-
-https://github.com/EmanSarhan/Full-Stack-WebDevProj/raw/refs/heads/main/1_BeautyStore-app/BeautyStore-app_EmanSarhan30SCodeRateLow.mp4
+[![Watch the video](https://github.com/EmanSarhan/BioDataAnalyzVisProj/blob/7b5784d5d246e59501b6736a66ff228c81e7604c/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov)]
 
 By Eman M. Sarhan
-<a class="prc-Link-Link-85e08" ">View raw</a>
+https://github.com/EmanSarhan/Full-Stack-WebDevProj/assets/32900511/ca9753a1-2355-47dc-b3bf-c2b4c8fc457b
