@@ -11,7 +11,7 @@ Features available:
 <div class='row'>
 <img alt="image" src="https://github.com/user-attachments/assets/51de3e54-0ce9-4ff7-bbe5-b31c8e83a68d" /> 
 <video controls src="https://github.com/user-attachments/assets/76eb9de4-6550-4c1f-949f-ae56fb5ef4e2"/>
-</span>
+</div>
 
 
 
