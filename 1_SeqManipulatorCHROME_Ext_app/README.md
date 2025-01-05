@@ -1,7 +1,7 @@
-### 1. SeqManipulator_CHROME_Ext_app (Version x1.0):
+## 1. SeqManipulator_CHROME_Ext_app (Version x1.0):
 It's a a biological sequence manipulator CHROME extension app project, build with JavaScript Manifest MV3.0.
 
-## Features available:
+### Features available:
 * manipulate all types of biological sequences (e.g., DNA, RNA, Protein sequences).
 * process unlimited number of entries' seqence length [nucleotides or amino acids].
 * accept any format type of sequence (e.g., FASTA format, ...etc).
