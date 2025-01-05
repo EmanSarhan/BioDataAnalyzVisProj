@@ -13,9 +13,8 @@ Features available:
 
 https://github.com/EmanSarhan/BioDataAnalyzVisProj/blob/7b5784d5d246e59501b6736a66ff228c81e7604c/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov
 
-[![Watch the video]([[https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](https://github.com/EmanSarhan/BioDataAnalyzVisProj/raw/refs/heads/main/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov))](https://youtu.be/T-D1KVIuvjA](https://github.com/EmanSarhan/BioDataAnalyzVisProj/raw/refs/heads/main/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov
-))
 
+[![Watch the video]()]()
 
 
 
