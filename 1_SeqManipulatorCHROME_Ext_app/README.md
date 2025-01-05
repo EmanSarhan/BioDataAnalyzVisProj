@@ -10,7 +10,7 @@ Features available:
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img alt="image" src="https://github.com/user-attachments/assets/51de3e54-0ce9-4ff7-bbe5-b31c8e83a68d" style="width: 49%; height: auto;" />
-  <video controls src="https://github.com/user-attachments/assets/76eb9de4-6550-4c1f-949f-ae56fb5ef4e2" style="width: 49%; height: auto;"></video>
+  <video controls src="https://github.com/user-attachments/assets/76eb9de4-6550-4c1f-949f-ae56fb5ef4e2" style="width: 30%; height: auto;"></video>
 </div>
 
 
