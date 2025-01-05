@@ -9,11 +9,8 @@ Features available:
 * predict some calculations of the sequence entries (e.g., sequence length, GC content %, melting tempeature, IP).
 
 <span>
-<img width="449" alt="image" src="https://github.com/user-attachments/assets/51de3e54-0ce9-4ff7-bbe5-b31c8e83a68d" />
-  
-<video width="640" height="360" controls src="https://github.com/user-attachments/assets/76eb9de4-6550-4c1f-949f-ae56fb5ef4e2">
-  <source  >
-</video>
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/51de3e54-0ce9-4ff7-bbe5-b31c8e83a68d" /> 
+<video controls src="https://github.com/user-attachments/assets/76eb9de4-6550-4c1f-949f-ae56fb5ef4e2"/>
 </span>
 
 
@@ -21,3 +18,4 @@ Features available:
 
 By Eman M. Sarhan
 https://github.com/user-attachments/assets/76eb9de4-6550-4c1f-949f-ae56fb5ef4e2
+width="640" height="360" 
