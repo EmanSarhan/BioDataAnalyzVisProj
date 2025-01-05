@@ -8,6 +8,13 @@ Features available:
 * all possible sequence conversions for the submited entries (e,g. complement, reverse, reverse complement, transcript RNA, translated Protein, ...etc.).
 * predict some calculations of the sequence entries (e.g., sequence length, GC content %, melting tempeature, IP).
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img alt="image" src="https://github.com/user-attachments/assets/51de3e54-0ce9-4ff7-bbe5-b31c8e83a68d" style="max-width: 49%; height: auto;" />
+  <video controls src="https://github.com/user-attachments/assets/76eb9de4-6550-4c1f-949f-ae56fb5ef4e2" style="max-width: 49%; height: auto;"></video>
+</div>
+
+
+
 <div class='row'>
   <div class='col-6'>
       <img alt="image" src="https://github.com/user-attachments/assets/51de3e54-0ce9-4ff7-bbe5-b31c8e83a68d" /> 
@@ -24,4 +31,4 @@ Features available:
 By Eman M. Sarhan
 https://github.com/user-attachments/assets/76eb9de4-6550-4c1f-949f-ae56fb5ef4e2
 width="640" height="360" 
-width="449" 
+
