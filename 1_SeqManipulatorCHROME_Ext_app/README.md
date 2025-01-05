@@ -17,6 +17,6 @@ https://github.com/EmanSarhan/BioDataAnalyzVisProj/blob/7b5784d5d246e59501b6736a
 [![Watch the video](https://github.com/EmanSarhan/BioDataAnalyzVisProj/blob/7b5784d5d246e59501b6736a66ff228c81e7604c/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov)](https://github.com/EmanSarhan/BioDataAnalyzVisProj/blob/7b5784d5d246e59501b6736a66ff228c81e7604c/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov)
 
 
-
+https://github.com/EmanSarhan/Full-Stack-WebDevProj/raw/refs/heads/main/1_BeautyStore-app/BeautyStore-app_EmanSarhan30SCodeRateLow.mp4
 
 By Eman M. Sarhan
