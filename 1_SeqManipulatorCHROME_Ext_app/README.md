@@ -3,7 +3,7 @@ It's a a biological sequence manipulator CHROME extension app project, build wit
 
 ### Features available:
 * manipulate all types of biological sequences (e.g., DNA, RNA, Protein sequences).
-* process unlimited number of entries' seqence length [nucleotides or amino acids].
+* process unlimited number of entries' sequence length [nucleotides or amino acids].
 * accept any format type of sequence (e.g., FASTA format, ...etc).
 * direct detect of the sequence type (DNA, RNA or Protein).
 * all possible sequence conversions for the submitted entries (e,g. complement, reverse, reverse complement, transcript RNA, translated Protein, ...etc.).
