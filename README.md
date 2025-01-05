@@ -15,6 +15,6 @@ Features available:
 
 
 
-Project_Link: ([1_BeautyStore-app](1_BeautyStore-app))...
+Project_Link: ([1_SeqManipulatorCHROME_Ext_app](1_SeqManipulatorCHROME_Ext_app))...
 
 By Eman M. Sarhan
