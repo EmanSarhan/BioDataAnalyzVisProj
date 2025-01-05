@@ -12,5 +12,5 @@ Features available:
 1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov
 
 Project_Link: ([1_SeqManipulatorCHROME_Ext_app](1_SeqManipulatorCHROME_Ext_app))...
-1_SeqManipulatorCHROME_Ext_app
+
 By Eman M. Sarhan
