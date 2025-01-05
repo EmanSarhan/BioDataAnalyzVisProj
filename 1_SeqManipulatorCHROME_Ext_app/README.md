@@ -9,8 +9,7 @@ Features available:
 * predict some calculations of the sequence entries (e.g., sequence length, GC content %, melting tempeature, IP).
 
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/51de3e54-0ce9-4ff7-bbe5-b31c8e83a68d" />
-1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov
 
-Project_Link: ([1_SeqManipulatorCHROME_Ext_app](1_SeqManipulatorCHROME_Ext_app))...
+https://github.com/EmanSarhan/BioDataAnalyzVisProj/raw/refs/heads/main/1_SeqManipulatorCHROME_Ext_app/SeqManipulator_ChromrExt_16.5_1080px.mov
 
 By Eman M. Sarhan
