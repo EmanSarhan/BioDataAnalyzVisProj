@@ -8,8 +8,8 @@ Features available:
 * process unlimited number of entries' seqence length [nucleotides or amino acids].
 * accept any format type of sequence (e.g., FASTA format, ...etc).
 * direct detect of the sequence type (DNA, RNA or Protein).
-* all possible sequence conversions for the submited entries (e,g. complement, reverse, reverse complement, transcript RNA, translated Protein, ...etc.).
-* predict some calculations of the sequence entries (e.g., sequence length, GC content %, melting tempeature, IP).
+* all possible sequence conversions for the submitted entries (e,g. complement, reverse, reverse complement, transcript RNA, translated Protein, ...etc.).
+* predict some calculations of the sequence entries (e.g., sequence length, GC content %, melting temperature, IP).
 
 Project_Link: ([1_SeqManipulatorCHROME_Ext_app](1_SeqManipulatorCHROME_Ext_app))...
 
