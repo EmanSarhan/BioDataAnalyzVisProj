@@ -11,7 +11,9 @@ Features available:
 * all possible sequence conversions for the submited entries (e,g. complement, reverse, reverse complement, transcript RNA, translated Protein, ...etc.).
 * predict some calculations of the sequence entries (e.g., sequence length, GC content %, melting tempeature, IP).
 
-![image](https://github.com/user-attachments/assets/bf4f9f58-7591-49e3-9968-990106a2896a)
+
+![image](https://github.com/user-attachments/assets/7b49c28c-2167-410a-846c-fbf3c2e7716d)
+
 
 Project_Link: ([1_BeautyStore-app](1_BeautyStore-app))...
 
