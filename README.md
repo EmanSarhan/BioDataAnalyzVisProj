@@ -11,10 +11,6 @@ Features available:
 * all possible sequence conversions for the submited entries (e,g. complement, reverse, reverse complement, transcript RNA, translated Protein, ...etc.).
 * predict some calculations of the sequence entries (e.g., sequence length, GC content %, melting tempeature, IP).
 
-<img width="449" alt="image" src="https://github.com/user-attachments/assets/51de3e54-0ce9-4ff7-bbe5-b31c8e83a68d" />
-
-
-
 Project_Link: ([1_SeqManipulatorCHROME_Ext_app](1_SeqManipulatorCHROME_Ext_app))...
 
 By Eman M. Sarhan
